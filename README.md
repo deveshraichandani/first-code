@@ -1,1 +1,1 @@
-first code in js :)
+first code in JS :)
